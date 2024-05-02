@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 🎓 Estou cursando sistemas de informação na UFPA
 - 🔭 Trabalho na Montreal SA
 
+  <h5>
+    Estou determinado a fazer o máximo de contribuições possíveis. Pretendo ser mais ativo nesta rede.
+  </h5>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg">
@@ -25,6 +29,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 </div>
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lima-12&hide=contribs,prs,issues&theme=transparent)](https://github.com/lima-12/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lima-12&layout=compact&theme=transparent)
 
   ##
  
