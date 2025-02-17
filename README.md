@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Estou cursando sistemas de informação na UFPA
-- 🔭 Trabalho na Montreal SA
 
   <h5>
     Estou determinado a fazer o máximo de contribuições possíveis. Pretendo ser mais ativo nesta rede.
