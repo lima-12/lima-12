@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 Estou cursando sistemas de informação na UFPA
 
   <h5>
-    Estou determinado a fazer o máximo de contribuições possíveis. Pretendo ser mais ativo nesta rede.
+    <!-- Estou determinado a fazer o máximo de contribuições possíveis. Pretendo ser mais ativo nesta rede. -->
   </h5>
 
 <div style="display: inline_block"><br>
